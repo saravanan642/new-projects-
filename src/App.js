@@ -18,9 +18,7 @@ function App() {
 
     <Route path="*" element={<PageNotFound />} />
 
-    {/* <Route path="/home/:name" element={<Home />}/> */}
-
-
+    <Route path="/home/:name" element={<Home />}/>
   </Routes>
 
     </div>
