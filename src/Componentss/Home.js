@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import Child from './Child'
+import Parents1 from './Parents1'
 
 const Home = () => {
 
@@ -19,6 +21,10 @@ const Home = () => {
       <p className=' font-bold text-yellow-700'> OCEAN vibes</p>
 
       <p>fieiifijssssssssssssssifnieie</p>
+
+      <Child />
+      <Parents1 />
+      
     </div>
   )
 }
