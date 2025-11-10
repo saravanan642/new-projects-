@@ -1,6 +1,6 @@
 
 
-const Parents = (props) => {
+const Parent= (props) => {
   return (
     <div>
       <p>Name : {props.name}</p>
@@ -9,4 +9,4 @@ const Parents = (props) => {
   )
 }
 
-export default Parents
+export default Parent

@@ -8,7 +8,7 @@ const Header = () => {
       <div className="border border-none flex gap-[30px]">
         < a href='/home' >Home</a>
         <Link to={"/about"} >about</Link>
-        <a href="/" className=""onClick={ () =>  navigate ("/contac")}>Contact</a>
+        <a href="/" className=""onClick={ () =>  navigate ("/s")}>Contact</a>
         
       </div>
     </div>

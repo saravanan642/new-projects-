@@ -1,5 +1,5 @@
 import React from 'react'
-import Parents from './Parents'
+import Parents from './Parent'
 
 const Child = ({BIO}) => {
   return (
