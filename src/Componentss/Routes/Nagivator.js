@@ -4,6 +4,8 @@ const Nagivator = () => {
   return (
     <div className='text-red-900'>
       <p>sjiw</p>
+      <p>gyt0</p>
+      <p>fyfyf</p>
     </div>
   )
 }
